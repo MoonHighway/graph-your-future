@@ -1,1 +1,36 @@
-# graph-your-future
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/512px-GraphQL_Logo.svg.png" width="100" alt="graphql logo"/>
+</p>
+
+# Graph Your Future - GraphQL Workshop
+
+Welcome! We're really glad you're here! Below you'll find all of the resources that we'll use throughout this course. If you're looking for slides, samples, links, etc., this is the place to look.
+
+## Setup Instructions
+This workshop requires minimal setup, but make sure that you have each of the following before the session:
+
+1. [Postman Account](https://www.postman.com/) - We'll use this to send HTTP requests with GraphQL.
+2. A code editor of some sort. This could be [VSCode](https://code.visualstudio.com/), [Sublime Text](https://www.sublimetext.com/), or other editor of your choosing. You can also use a free in-browser code editor like [CodeSandbox](https://codesandbox.io). 
+
+## Instructor Info
+
+- **Eve Porcello** : [Email](mailto:eve@moonhighway.com)
+
+### GraphQL Query Language
+
+- [Query Language Slides](https://slides.com/moonhighway/graphql-intro/)
+- [Pet Library API](https://pet-library.moonhighway.com)
+- [Snowtooth API](https://snowtooth.moonhighway.com)
+- [GitHub API](https://developer.github.com/v4/explorer/)
+- [Lab Instructions](https://slides.com/moonhighway/snowtooth-query-lab/)
+
+### Schema Slides
+
+* [Schema Slides](https://slides.com/moonhighway/schema-definition-language)
+* [Schema Cheatsheet](https://raw.githubusercontent.com/sogko/graphql-shorthand-notation-cheat-sheet/master/graphql-shorthand-notation-cheat-sheet.png)
+
+### Tutorials and Resources
+
+- [Apollo Odyssey](https://odyssey.apollographql.com/)
+- [How to GraphQL](https://howtographql.com)
+- [GraphQL.org](https://graphql.org)
