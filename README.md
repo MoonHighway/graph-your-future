@@ -10,7 +10,10 @@ Welcome! We're really glad you're here! Below you'll find all of the resources t
 This workshop requires minimal setup, but make sure that you have each of the following before the session:
 
 1. [Postman Account](https://www.postman.com/) - We'll use this to send HTTP requests with GraphQL.
-2. A code editor of some sort. This could be [VSCode](https://code.visualstudio.com/), [Sublime Text](https://www.sublimetext.com/), or other editor of your choosing. You can also use a free in-browser code editor like [CodeSandbox](https://codesandbox.io). 
+2. A code editor of some sort. If you don't have one, here are some options:
+   * [VSCode](https://code.visualstudio.com/)
+   * [Sublime Text](https://www.sublimetext.com/)
+   * [CodeSandbox](https://codesandbox.io) - free in-browser code editor
 
 ## Instructor Info
 
