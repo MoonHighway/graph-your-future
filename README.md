@@ -32,7 +32,12 @@ This workshop requires minimal setup, but make sure that you have each of the fo
 * [Schema Slides](https://slides.com/moonhighway/schema-definition-language)
 * [Schema Cheatsheet](https://raw.githubusercontent.com/sogko/graphql-shorthand-notation-cheat-sheet/master/graphql-shorthand-notation-cheat-sheet.png)
 
-### Tutorials and Resources
+### Resources
+
+* [API Platform](https://partner.thetradedesk.com/v3/portal/api/doc/ApisPlatform)
+* [API Calls](https://partner.thetradedesk.com/v3/portal/api/doc/GqlApiCalls)
+
+### Tutorials
 
 - [Apollo Odyssey](https://odyssey.apollographql.com/)
 - [How to GraphQL](https://howtographql.com)
