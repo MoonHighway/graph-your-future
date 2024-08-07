@@ -23,6 +23,7 @@ This workshop requires minimal setup, but make sure that you have each of the fo
 
 - [Query Language Slides](https://slides.com/moonhighway/graphql-intro/)
 - [Pet Library API](https://pet-library.moonhighway.com)
+- [Funded Pet Library](https://funded-pet-library.moonhighway.com)
 - [Snowtooth API](https://snowtooth.moonhighway.com)
 - [GitHub API](https://developer.github.com/v4/explorer/)
 - [Lab Instructions](https://slides.com/moonhighway/snowtooth-query-lab/)
