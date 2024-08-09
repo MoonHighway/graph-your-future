@@ -31,6 +31,10 @@ This workshop requires minimal setup, but make sure that you have each of the fo
 ### Schema Slides
 
 * [Schema Slides](https://slides.com/moonhighway/schema-definition-language)
+
+# Cheatsheets
+
+* [Query Language Cheatsheet - DevHints](https://devhints.io/graphql)
 * [Schema Cheatsheet](https://raw.githubusercontent.com/sogko/graphql-shorthand-notation-cheat-sheet/master/graphql-shorthand-notation-cheat-sheet.png)
 
 ### Resources
