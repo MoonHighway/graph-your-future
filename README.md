@@ -34,7 +34,7 @@ This workshop requires minimal setup, but make sure that you have each of the fo
 
 # Cheatsheets
 
-* [Query Language Overview - graphql.org](https://graphql.org/learn/queries/)
+* [Query Language Overview - graphql.org](https://graphql.org/learn/queries/) - Note that all query examples are interactive. When you change the fields in the query, the results will also change. Try using CTRL + space to surface available fields. 
 * [Query Language Cheatsheet - DevHints](https://devhints.io/graphql)
 * [Query Language Cheatsheet - DevTools Daily](https://www.devtoolsdaily.com/cheatsheets/graphql/)
 * [Schema Cheatsheet](https://raw.githubusercontent.com/sogko/graphql-shorthand-notation-cheat-sheet/master/graphql-shorthand-notation-cheat-sheet.png)
