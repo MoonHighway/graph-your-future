@@ -35,6 +35,7 @@ This workshop requires minimal setup, but make sure that you have each of the fo
 # Cheatsheets
 
 * [Query Language Cheatsheet - DevHints](https://devhints.io/graphql)
+* [Query Language Cheatsheet - DevTools Daily](https://www.devtoolsdaily.com/cheatsheets/graphql/)
 * [Schema Cheatsheet](https://raw.githubusercontent.com/sogko/graphql-shorthand-notation-cheat-sheet/master/graphql-shorthand-notation-cheat-sheet.png)
 
 ### Resources
